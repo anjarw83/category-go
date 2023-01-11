@@ -2,6 +2,16 @@
 
 * [1] File [tag.go](./tag.go)
   * Test : `go run tag.go`
+  * Result: 
+    ```
+    Input :  123{abcd[123(45)dd]bb}sss
+    Parsing 123{abcd[123(45)dd]bb}sss
+    Output :  true
+    Input :  abcd(ex45{uuuu)000]ccc
+    Parsing abcd(ex45{uuuu)000]ccc
+    Output :  false
+    ```
+    
 * [2.a] Struktur Table :
     ```
     Table Category
