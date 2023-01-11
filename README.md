@@ -1,4 +1,4 @@
-### Table Category
+### Listing Category
 
 * [1] File [tag.go](./tag.go)
   * Test : `go run tag.go`
